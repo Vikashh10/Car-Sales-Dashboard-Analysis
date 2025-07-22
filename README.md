@@ -1,2 +1,8 @@
-# Car-Sales-Dashboard-Analysis
-Designed and developed a dynamic and interactive Car Sales dashboard using Power BI. 
+## Car-Sales-Dashboard-Analysis
+ Welcome to the Car Sales Dashboard Analysis project! This repository contains a comprehensive data analysis and interactive dashboard that provides valuable insights into car sales trends, performance metrics, and customer preferences.
+ #PROJECT OVERVIEW 
+ This project analyzes car sales data to identify key business insights and visualize trends using interactive dashboards. It is designed to support data-driven decision-making in the automotive industry.
+ # DASHBOARD PREVIEW
+ The dashboard provides dynamic filtering, real-time KPIs, and interactive charts to explore performance by brand, region, and more.
+ # DATA SORCE
+Sample car sales dataset
